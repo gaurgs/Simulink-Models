@@ -1,0 +1,5 @@
+c1_ccode_sdr.obj
+c2_ccode_sdr.obj
+c3_ccode_sdr.obj
+ccode_sdr_sfun_registry.obj
+ccode_sdr_sfun.obj

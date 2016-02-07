@@ -1,0 +1,5 @@
+c1_SDR_fading.obj
+c2_SDR_fading.obj
+c3_SDR_fading.obj
+SDR_fading_sfun_registry.obj
+SDR_fading_sfun.obj
